@@ -1,0 +1,3 @@
+Hello world!
+
+Getting used to working with git.
